@@ -5,6 +5,7 @@ package com.handge.hr.common.enumeration.base;
  */
 public enum DateFormatEnum {
     YEAR("yyyy"),
+
     MONTH("yyyy-MM"),
     MONTHNEW("yyyyMM"),
     DAY("yyyy-MM-dd"),
