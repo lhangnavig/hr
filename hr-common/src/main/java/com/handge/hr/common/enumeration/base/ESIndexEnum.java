@@ -7,6 +7,7 @@ package com.handge.hr.common.enumeration.base;
 public enum ESIndexEnum {
     ALL("00", null),
     MAPPING("01", ""),
+
     FILTER("02", "_noise");
 
     private String code;
